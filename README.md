@@ -1,4 +1,4 @@
-# 🎮 Loja de Games
+# 🎮 Loja de Jogos
 <br>
 Este projeto consiste em uma API para gerenciamento de uma loja de games. A aplicação permite realizar operações completas de cadastro e controle de produtos e categorias, seguindo o padrão CRUD.
 
